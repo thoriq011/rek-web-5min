@@ -1,0 +1,29 @@
+Kelebihan dan Kekurangan Bahasa Pemrograman PHP versi 7
+Kelebihan :
+1. Mudah dipelajari
+2. Proses upgrade yang mudah
+3. Program yang ringkas
+4. Program open source
+
+Kekurangan :
+1. Mudah ditiru & Rawan pembajakan
+2. Tidak ada tipe data
+3. Bukan OOPP murni
+4. Penanganan Error yang kurang baik
+
+Kelebihan dan Kekurangan Bahasa Pemrograman PHP versi 8
+Kelebihan :
+1. Terdapat banyak fitur baru
+2. Maintenance mudah
+3. Sudah ada WeakMap
+4. Library dan bantuan yang lengkap
+5. Loading cepat
+6. Stabil
+7. Banyak dukungan koneksi database
+
+Kekurangan :
+1. Keamanan Kurang
+2. Tidak cocok dengan proyek besar
+3. Rumit
+4. Performa yang lemah
+5. Tidak ada akses modifikasi
